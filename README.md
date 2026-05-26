@@ -1,25 +1,27 @@
 <h1 align="center">👨‍💻 João Marcus</h1>
 
-<p align="center">
-  🚀 Estudante de Eng De Software <br>
-  💡 Desenvolvedor focado em Front-End, IA e Automação <br>
-  🔥 Transformando ideias em projetos reais
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/joaomarcus21">
-    <img src="https://komarev.com/ghpvc/?username=joaomarcus21&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Front-End+Developer;AI+%26+Automation+Enthusiast;Always+learning+new+technologies;Transformando+café+em+código+☕"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+
+</div>
 
 ---
 
 # 🚀 Sobre mim
 
-🎓 Estudante de Eng de Software apaixonado por tecnologia e inovação  
-💻 Desenvolvendo projetos modernos com foco em experiência visual  
-🤖 Explorando IA, automações e interfaces inteligentes  
-📚 Sempre aprendendo algo novo e evoluindo no mundo dev  
+🎓 Estudante de Eng De Software de Sistemas  
+💻 Desenvolvedor focado em Front-End, IA e automações  
+🚀 Criando projetos modernos e experiências visuais impactantes  
+📚 Sempre estudando novas tecnologias e evoluindo no mundo dev  
 
 ---
 
@@ -27,12 +29,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="45"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode"/>
 
 </div>
 
@@ -50,11 +47,41 @@
 
 ---
 
-# 🔥 Streak Stats
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=joaomarcus21&theme=tokyonight&hide_border=false"/>
+<img src="https://streak-stats.demolab.com?user=joaomarcus21&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=joaomarcus21&theme=tokyonight&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🐍 Contribuições Animadas
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaomarcus21&theme=tokyo-night"/>
 
 </div>
 
@@ -64,7 +91,7 @@
 
 ## 🏆 Site da Atlética
 
-🔗 Projeto desenvolvido para atlética universitária com foco em design moderno e responsividade.
+🔗 Projeto moderno desenvolvido para atlética universitária.
 
 👉 Repositório:  
 https://github.com/joaomarcus21/AAA-XXMARCO
@@ -73,13 +100,23 @@ https://github.com/joaomarcus21/AAA-XXMARCO
 
 ## 🤖 Dashboard Financeiro Inteligente
 
-📊 Sistema com análise de gastos, automações e integração com IA.
+📊 Sistema com análises automáticas e integração com IA.
 
 ---
 
-## 🌐 Projetos Web Modernos
+## 🌐 Projetos Web Responsivos
 
-💻 Desenvolvimento de interfaces modernas, responsivas e otimizadas.
+💻 Interfaces modernas, performáticas e responsivas.
+
+---
+
+# 🎧 Spotify Playing
+
+<div align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31w4h5xxxxxxxxxxxxxxxxx&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+
+</div>
 
 ---
 
@@ -87,11 +124,11 @@ https://github.com/joaomarcus21/AAA-XXMARCO
 
 <div align="center">
 
-<a href="https://www.linkedin.com/](https://www.linkedin.com/in/jo%C3%A3o-marcus-dias-a02458232/">
+<a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="joaomarcusdiasparreira@gmail.com">
+<a href="mailto:seuemail@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
@@ -103,11 +140,11 @@ https://github.com/joaomarcus21/AAA-XXMARCO
 
 ---
 
-# 🐍 Contribuições
+# ☕ Dev Quote
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
@@ -115,8 +152,8 @@ https://github.com/joaomarcus21/AAA-XXMARCO
 
 <div align="center">
 
-### ⚡ “Transformando café em código desde cedo.” ☕
+### 🚀 Building the future one commit at a time.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:2563EB&height=140&section=footer"/>
