@@ -16,7 +16,7 @@
 
 # 🚀 Sobre mim
 
-🎓 Estudante de ADS apaixonado por tecnologia e inovação  
+🎓 Estudante de Eng de Software apaixonado por tecnologia e inovação  
 💻 Desenvolvendo projetos modernos com foco em experiência visual  
 🤖 Explorando IA, automações e interfaces inteligentes  
 📚 Sempre aprendendo algo novo e evoluindo no mundo dev  
@@ -87,11 +87,11 @@ https://github.com/joaomarcus21/AAA-XXMARCO
 
 <div align="center">
 
-<a href="https://www.linkedin.com/">
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/jo%C3%A3o-marcus-dias-a02458232/)">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:seuemail@gmail.com">
+<a href="joaomarcusdiasparreira@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
