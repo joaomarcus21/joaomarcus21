@@ -87,7 +87,7 @@ https://github.com/joaomarcus21/AAA-XXMARCO
 
 <div align="center">
 
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/jo%C3%A3o-marcus-dias-a02458232/)">
+<a href="https://www.linkedin.com/](https://www.linkedin.com/in/jo%C3%A3o-marcus-dias-a02458232/">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
