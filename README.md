@@ -18,7 +18,7 @@
 
 # 🚀 Sobre mim
 
-🎓 Estudante de Eng De Software de Sistemas  
+🎓 Estudante de Eng De Software 
 💻 Desenvolvedor focado em Front-End, IA e automações  
 🚀 Criando projetos modernos e experiências visuais impactantes  
 📚 Sempre estudando novas tecnologias e evoluindo no mundo dev  
