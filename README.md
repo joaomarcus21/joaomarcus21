@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 João Marcus</h1>
 
 <p align="center">
-  🚀 Estudante de Análise e Desenvolvimento de Sistemas <br>
+  🚀 Estudante de Eng De Software <br>
   💡 Desenvolvedor focado em Front-End, IA e Automação <br>
   🔥 Transformando ideias em projetos reais
 </p>
